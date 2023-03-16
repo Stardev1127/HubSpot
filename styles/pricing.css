@@ -1,0 +1,447 @@
+#container{
+    width: 100%;
+    
+    
+}
+#main{
+    width: 100%;
+    height: 200px;
+    border: 1px solid green;
+    text-align: center;
+    background-color:rgb(0,181,172);
+    padding: 0px 0px 32px;
+    color: white;
+}
+#ander{
+    margin-top: 94px;
+justify-content: center;
+    display: flex;
+    
+}
+#pp{
+    background-color: white;
+    height: 15px;
+    padding: 15px;
+    cursor: pointer;
+    width: 200px;
+    color: black;
+}
+#bb{
+    background-color: white;
+    padding: 15px;
+    cursor: pointer;
+    margin: 0%;
+    border: 1px solid gray;
+    height: 15px;
+    width: 200px;
+    color: black;
+
+}
+#aa{
+    display: flex;
+    justify-content: space-around;
+    height: 66px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    font-weight: 100;
+    
+    
+    
+}
+#aa>div{
+    margin: auto;
+    
+    cursor: pointer;
+    width: 10%;
+    
+    
+
+
+}
+#mm:focus{
+    background-color: skyblue;
+}
+div>h5{
+    text-align: center;
+}
+#ll{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 50px; */
+}
+span{
+    
+    font-size: 10px;
+    
+}
+#ss{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#n{
+    font-weight: bolder;
+}
+#nn{
+    
+    height: 20px;
+    margin-top:15px;
+}
+#sub{
+    display: flex;
+    border: 1px solid green;
+    justify-content: center;
+    background-color: rgb(229,245,248);
+}
+#su{
+    margin-top: 5px;
+}
+#tts{
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+#tts>button{
+    background-color:rgb(66,91,118);
+    color: white;
+    cursor: pointer;
+}
+body{
+    background-color: rgb(245,248,250);
+}
+
+#boxM{
+    display: flex;
+    margin: auto;
+    height: 70%;
+    border: 1px solid gold;
+
+}
+#box1in{
+    display: flex;
+}
+<<<<<<< HEAD
+.size-36 {
+    font-size: 36px;
+    }
+
+
+    #price_content{
+        display: flex;
+        width: 70%;
+        margin: auto;
+        align-items: center;
+        gap:20px;
+
+        justify-items: center;
+        
+        
+    }
+    .marketingbox{
+        margin-top: 0%;
+        height: 1300px;
+    }
+   
+    #m_buy>button{
+
+        width: 100%;
+        background-color: rgb(211, 19, 19);
+        color: white;
+        padding: 20px;
+        
+        text-align: center;
+        cursor: pointer;
+        margin-top: 30px;
+    }
+
+    #price_btn1{
+        border-radius: 25px;
+        margin-right: -10px;
+        padding: 5px;
+        cursor: pointer;
+        
+    }
+    #price_btn2{
+        border-radius: 25px;
+        margin-left: -10px;
+        padding: 5px;
+        cursor: pointer;
+
+    }
+    h3{
+        color: rgb(0,145,174);
+    }
+    .contin{
+        display: flex;
+        
+    }
+    .contin>p{
+        
+        
+        margin-left: 200px;
+    
+    }
+    
+    #tick{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    #contM{
+        border: 1px solid skyblue;
+        width: 80%;
+        margin: auto;
+        background-color: rgb(255,255,255);
+        
+        
+    }
+    #idb>button{
+        cursor: pointer;
+        color: rgb(255,139,104);
+        margin-top: 30px;
+        width: 150px;
+        height: 40px;
+        border: 1px solid rgb(255,139,104);
+        
+        
+        background-color: rgb(245,248,250);
+        
+        margin-left: 500px;
+        
+        
+    
+    }
+    #idb>button:hover {
+        background-color:rgb(255,222,238)
+        
+      }
+      hr{
+        width: 90%;
+      }
+      
+    #recomain>h1{
+        text-align: center;
+    }
+    #m_buy{
+        margin-bottom: 30px;
+    }
+    #bund{
+        display: flex;
+        background-color: rgb(255,255,255);
+    }
+    #recomain{
+        border: 1px solid skyblue;
+        margin: auto;
+        width: 80%;
+    }
+    #bunbtn{
+        margin-left: 200px;
+    }
+    h1,h2{
+        text-align: center;
+    }
+    #bund1{
+        margin-left: 50px;
+        
+    }
+    .pnum>img{
+        width: 20px;
+    }
+    .pnum{
+        display: flex;
+        width: 270px;
+        height: 50px;
+        border: 1px solid khaki;
+        border-radius: 20px;
+        align-items: center;
+        justify-content: center;
+
+        
+        margin: auto;
+
+    }
+    #laptoptranformation{
+        
+        display: flex;
+        width: 80%;
+        margin: auto;
+        background-color: rgb(255,255,255)
+        ;
+    }
+    #lapImg>img{
+        width: 100%;
+
+    }
+    #lap2>img{
+        width: 100%;
+        margin-top: 50px;
+
+    }
+    
+    #calaculateprice{
+        display: flex;
+        width :70%;
+        gap :20px;
+        margin:auto;
+        border:1px solid red;
+    };
+     #calbox1{
+        width:60%;
+        border:1px solid blue;
+
+    } 
+     #calbox2{
+        width:55%;
+        border: 1ps solid brown;
+
+    } 
+    #calinnerbox1{
+        width:100%;
+        justify-content:space-between;
+    } 
+     .insideinner>img{
+        width:20%;
+
+    } 
+     .innerbox{
+        display: flex;
+        border:1px solid green;
+        background-color:grey;
+    } 
+    /* 2nd waala pic css */
+    #logo_main5{
+        display: flex;
+        width: 80%;
+        
+        margin: auto;
+    }
+    #logopic{
+        width: 50%;
+        gap: 20px;
+
+        
+
+    }
+    #logopic>img{
+        width: 100%;
+    }
+
+    #logopic1{
+        margin-top: 120px;
+        
+
+
+    }
+    #logopic1>img{
+        width: 100%;
+    }
+    /* main freq */
+    #mainfreq{
+        gap: 20px;
+        background-color: rgb(245,248,250);
+    }
+    
+    
+    #freqbox1{
+        font-weight: bold;
+    
+       width: 80%;
+       margin-top: 30px;
+       
+       gap: 30px;
+       margin-left: 250px;
+       width: 70%;
+       height: 10%;
+       align-items: center;
+       display: flex;
+       justify-content: center;
+       border:1px solid rgb(245,248,250);
+       background-color: rgb(255,255,255)
+       ;
+       
+    }
+    #last{
+        display: flex;
+        align-items: center;
+        margin-left: 50px;
+    }
+    #last>h4{
+        color:rgb(25,166,202);
+        margin-left: 49px;
+        cursor: pointer;
+        font-weight: 200;
+    }
+    
+    #last>h1{
+        margin-left: 150px;
+    }
+    
+    
+    
+    
+    h1{
+        text-align: center;
+        
+    }
+    #last>h4>img{
+        width: 20px;
+
+    }
+    #pareshan>p{
+        text-align: center;
+    }
+    #django{
+        margin-left: 60px;
+    }
+
+    /* yha se h  */
+
+    /* #calplan{
+        width: 80%;
+        display: flex;
+        margin: auto;
+    }
+    #calplaninside{
+       
+        width: 70%;
+    }
+    #calplaninside2{
+        width: 30%;
+    }
+    #calplaninside_flex{
+        justify-content: space-between;
+        width: 80%;
+        display: flex;
+        margin: auto;
+    }
+    #image_con{
+        display: flex;
+    }
+    div{
+        border :1px solid red
+    }
+    #image_con>img{
+        width: 10%;
+    }
+    #cal_content{
+        width: 80%;
+        margin: auto;
+    }
+    #calpricedesign{
+        width:100%;
+        height: 2px;
+        border: 1px solid grey;
+    }
+
+    #allnonmarket{
+        
+    }
+      
+      
+=======
+>>>>>>> aa991a244c7a8b0f9005523424a361337a4962ce
+
+ */
+
